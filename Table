@@ -1,0 +1,6 @@
+Create a New Database with 4 column in XAMPP
+
+id primarykey and click on auto_increment
+name VARCHAR 255
+email VARCHAR 255
+password VARCHAR 255
